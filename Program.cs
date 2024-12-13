@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            #region co
+            #region Contains
             var numbers = new int[] { 1, 2, 3, 4, 5, -1 };
             var item = 89;
             var result = numbers.Contains(item);
